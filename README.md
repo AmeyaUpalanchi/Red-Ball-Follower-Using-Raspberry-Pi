@@ -19,7 +19,7 @@ Dependencies \
 Steps:
 1)Create a python file in raspberry pi( Command : sudo nano filename.py)\
 2)Paste the code in file & Save ( cltrl+o & then cltrl+x)\
-3)Connect the motor driver with raspberry pi (Refer : https://github.com/AmeyaUpalanchi/Interfacing-motor_driver-with-raspberry_pi/)\
+3)Connect the motor driver with raspberry pi (Refer : https://github.com/AmeyaUpalanchi/Interfacing-motor_driver-with-raspberry_pi/)
 4)Connect the ultransonic sensors to the raspberry pi by refering diagram\
 5)Run the program ( python2 filename.py)\
 6)Done..Enjoy!
