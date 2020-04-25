@@ -40,26 +40,22 @@ For the image analysis, I am taking each frame and then masking it with the colo
 Finally my bot tries to bring the coordinates of the ball to the center of its imaginary coordinate axis. This is how my robo works. I enjoy a lot working on this project and its a nice experience.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1) Raspberry pi (any version) with raspbian os installed\
+2)3 Ultrasonic sensors \
+3)Motor driver (LM298 , L293D module)\
+4)Power supply\
+5)Jumper cambles (Feamle-female)\
+6)Camera module(use module over usb camera for better camera)\
+7)Red ball for testing 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+
+1) Python2 \
+2)opencv -3.10\
+3)picamera
+4)Raspberry-pi with raspbian os installed
+
 
 ### Installation
 
