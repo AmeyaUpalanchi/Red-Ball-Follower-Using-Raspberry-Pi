@@ -68,7 +68,7 @@ cltrl+o & then cltrl+x
 
 4. Connect the ultransonic sensors to the raspberry pi by refering diagram
 
-![image info](./)
+![image info](./ultrasonic_sensor_connections.jpg)
 
 
 5. Run the program 
