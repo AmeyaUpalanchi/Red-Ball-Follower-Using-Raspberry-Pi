@@ -63,7 +63,13 @@ cltrl+o & then cltrl+x
 ```
 3. Connect the motor driver with raspberry pi (Refer : https://github.com/AmeyaUpalanchi/Interfacing-motor_driver-with-raspberry_pi/)
 
+![image info](./motor_driver_connections.jpg)
+
+
 4. Connect the ultransonic sensors to the raspberry pi by refering diagram
+
+![image info](./)
+
 
 5. Run the program 
 ```sh
